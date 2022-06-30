@@ -4,9 +4,3 @@
 # Conceptual Asides
 
 Something that is off to the side of what we are talking about directly, but has something that is very essential and foundation to understand the concept we are covering.
-
-# Video 10 - The Global Env and Exectution Context Summary
-
-All code that runs in js runs in an execution context. A wrapper, the js engine a program that other people wrote to parse your code.
-
-It wraps the currently executing code in execution context

@@ -8,7 +8,7 @@ Definition: A program that reads your code and determines what it does and if it
 
 ## Execution Context - Big Word Alert
 
-    A wrapper to help manage the code tha is running. There are a multiple lexical enviroments in a progarm. Which is currently running is managed via execution contexts. It can contain things beyond what you've written in your code.
+    A wrapper to help manage the code that is running. There are a multiple lexical enviroments in a progarm. Which is currently running is managed via execution contexts. It can contain things beyond what you've written in your code.
 
 ## Lexical Enviorment - Big Word Alert
 
